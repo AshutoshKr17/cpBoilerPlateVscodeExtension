@@ -29,7 +29,7 @@ function activate(context) {
 			)
 		});
 		//Display a message box to the user
-		vscode.window.showInformationMessage('Hello World from cp Boiler Plate!');
+		vscode.window.showInformationMessage('Code Pasted!');
 	});
 
 	context.subscriptions.push(disposable);
