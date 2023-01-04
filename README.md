@@ -5,13 +5,14 @@ This extension Just add boiler code that required for cp.
 
 Nothin much just add few lines of codes like int main and such. 
 
-\!\[feature X\]\(images/feature-x.png\)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
-
 ## Requirements
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+no requirement!
+
+## How to use
+
+After creating new file in cpp format hold ctrl+shift+p and type "Write Boiler plate Code For me" and press enter voila :)
+
 
 ## Extension Settings
 
@@ -30,20 +31,11 @@ Calling out known issues can help limit users opening duplicate issues against y
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
+Nothin To see here Just thank you for using the extension. peace;
 
 ### 1.0.0
 
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
+Initial release of cpBoilerPlate 
 ---
 
 ## Working with Markdown

@@ -2,7 +2,7 @@
   "name": "cp-boiler-plate",
   "displayName": "cp Boiler Plate",
   "publisher": "m1rage",
-  "repository": {},
+  "repository": {"directory": "https://github.com/AshutoshKr17/cpBoilerPlateVscodeExtension.git"},
   "description": "",
   "version": "0.0.1",
   "engines": {
